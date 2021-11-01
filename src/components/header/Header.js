@@ -57,7 +57,7 @@ function Header() {
           )}
           {viewBlog && (
             <li>
-              <a href="#blogs">Projects</a>
+              <a href="#projects">Projects</a>
             </li>
           )}
           {viewTalks && (

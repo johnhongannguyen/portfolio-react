@@ -153,12 +153,11 @@ const workExperiences = {
       companylogo: require("./assets/images/dan-d.png"),
       date: " May 2021 – Present",
       desc:
-        "Changing lives of developers one line of code at a time.",
+        "A good step to be a Web Developer. ",
       descBullets: [
-        "Custom building applications",
-        "Coaching",
-        "Streaming live on YouTube",
-        "Creating tutorials"
+        "Maintain hardware and software on desktop PCs and electric devices",
+        "Provide technical Support",
+        "Debug error from the systems"
       ]
     },
     {
@@ -167,7 +166,12 @@ const workExperiences = {
       companylogo: require("./assets/images/urban.png"),
       date: "July 2019 – September 2020",
       desc:
-        "I lead software developers building the API for the bank in order to fulfil the PSD2 regulation requirements."
+        "I had a good experience at Urban Fare where I can enhance my abilities in managing different tasks and bringing a core value from the company to customers.",
+      descBullets:[
+        "Utilize POS and Ecommerce system to deal with delivery issues.",
+        "Collaborate with internal departments to ensure customer satisfaction rate.",
+        "Assist departments for ordering merchandises by keeping track of items."
+      ]
     },
     {
       role: "Marketing Executive",
@@ -175,7 +179,12 @@ const workExperiences = {
       companylogo: require("./assets/images/schneider-logo.png"),
       date: "January 2016 – December 2016",
       desc:
-        ""
+        "My very first job in Vietnam after graduating defined myself to turn into developer. That is creating a friendly UX/UI for the products ",
+      descBullets:[
+        "Support in variety of marketing documents,",
+        "Design posters, standees, and leaflets by using Photoshop and Illustrator",
+        "Analyzing customer database to figure out customer behavior in the industry."
+      ]
     }
   ]
 };
@@ -184,7 +193,7 @@ const workExperiences = {
 
 const openSource = {
   githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
-  githubUserName: "drakosi99", // Change to your github username to view your profile in Contact Section.
+  githubUserName: "johnhongannguyen", // Change to your github username to view your profile in Contact Section.
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
   display: true // Set false to hide this section, defaults to true
 };

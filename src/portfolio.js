@@ -298,7 +298,7 @@ const achievementSection = {
 const blogSection = {
   title: "Projects",
   subtitle:
-    "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
+    "With Love for Developing cool stuff, I love to write what I have learnt.",
 
   blogs: [
     {
